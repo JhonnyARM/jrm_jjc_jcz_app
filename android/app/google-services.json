@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093952024052",
+    "project_id": "appcrud-38df7",
+    "storage_bucket": "appcrud-38df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093952024052:android:ef96011b97ba01e4975da1",
+        "android_client_info": {
+          "package_name": "com.example.jrm_jjc_jcz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqqwSPHWEJK9QVFNKff986R1_17JlleQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
