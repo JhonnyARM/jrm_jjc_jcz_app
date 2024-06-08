@@ -52,11 +52,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCwqqwSPHWEJK9QVFNKff986R1_17JlleQ',
-    appId: '1:1093952024052:android:ef96011b97ba01e4975da1',
-    messagingSenderId: '1093952024052',
-    projectId: 'appcrud-38df7',
-    storageBucket: 'appcrud-38df7.appspot.com',
-  );
+  
 }
